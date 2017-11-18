@@ -5,6 +5,6 @@ kill $(pgrep telegram-cli)
 echo -e "\e[38;5;77m"   
 echo -e "        \e[38;5;40m"
 sleep 2
-   ./tg -s ./bot.lua
+   ./tg -s ./KEEPER.lua
 sleep 3
 done
