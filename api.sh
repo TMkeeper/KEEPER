@@ -1,3 +1,3 @@
 while [[ true ]]; do
-  lua ./api/api.out
+  lua ./api/api.lua
 done
